@@ -7,16 +7,16 @@ public class ArithmeticOperations
    {
 	Scanner sc = new Scanner(System.in);
 	System.out.print("Enter First no. :");
-	double num1 = sc.nextDouble();
+	int num1 = sc.nextInt();
 	
 	System.out.print("Enter Second no. :");
-	double num2 = sc.nextDouble();
+	int num2 = sc.nextInt();
 	
-	double Addition = num1 + num2;
-	double Substraction = num1 - num2;
-	double Multiplication = num1 * num2;
-	double Division = num1/num2;
-	double Modulus = num1%num2;
+	int Addition = num1 + num2;
+	int Substraction = num1 - num2;
+	int Multiplication = num1 * num2;
+	int Division = num1/num2;
+	int Modulus = num1%num2;
 	
 	System.out.println( "Addition = " + Addition  );
 	System.out.println( "Substraction = " + Substraction);
