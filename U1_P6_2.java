@@ -14,7 +14,7 @@ import java.util.Scanner;
 					   int i=1;
 					   while(i<=10)
 					   {
-						   System.out.println("Value :" + i);
+						   System.out.println("Value :" + value);
 						   i++;
 					   }
 					  
