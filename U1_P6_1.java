@@ -15,7 +15,7 @@ import java.util.Scanner;
 						int i;
 					   for(i=1;i<=10;i++)
 					   {
-						   System.out.println("Value :" + i);
+						   System.out.println("Value :" + value);
 					   }
 					  
 					scn.close();
