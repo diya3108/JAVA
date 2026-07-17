@@ -1,0 +1,44 @@
+//7.6 write a java program to use IF-IF ELSE-ELSE IF()ELSE condition.
+
+import java.util.Scanner;
+
+public class U1_P7_6
+	      {
+		           public static void main(String args[])
+				           {
+                                 Scanner scn = new Scanner(System.in);
+								 
+								  
+								  System.out.println("Enter marks:");
+								  int marks = scn.nextInt();
+								  
+								   if(marks>=40)
+								   {
+									  if (marks>=80)
+									  {
+										  System.out.println("GRADE A");
+									  }
+									  
+									    else
+								  {
+									System.out.println("Pass");
+								  }
+								  
+							}
+								   else 
+								   {
+									   if (marks>=33)
+									  
+								  {
+									System.out.println("Pass");
+								  }
+								  else
+								  {
+									  System.out.println("Fail");
+								  } 
+								   }
+								   
+								    scn.close();
+						   }
+	      }
+									
