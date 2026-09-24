@@ -16,9 +16,9 @@ class Tanvi implements Runnable
     {
         for(int i=1;i<=5;i++)
         {
-            System.out.println("From Thread Tanviba: i =" + i);
+            System.out.println("From Thread Tanvi: i =" + i);
         }
-        System.out.println("Exit from Thread Tanviba");
+        System.out.println("Exit from Thread Tanvi");
     }
 }
 class Rudri implements Runnable
