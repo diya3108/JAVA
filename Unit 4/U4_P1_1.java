@@ -1,4 +1,4 @@
-class Diya extends Thread
+ class Diya extends Thread
 {
     public void run()
     {
@@ -31,7 +31,7 @@ class Rudriba extends Thread
         System.out.println("Exit from Thread Rudriba");
     }
 }
-public class U4_P1
+public class U4_P1_1
 {
     public static void main(String args[])
     {
