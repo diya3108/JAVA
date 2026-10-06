@@ -1,3 +1,4 @@
+// Write a Java program to perform different arithmetic operations.//
 import java.util.Scanner;
 
 class UserInput{
