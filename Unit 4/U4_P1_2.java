@@ -1,4 +1,4 @@
-
+//Write a Java program to create a thread using Runnable class.//
 class Diya implements Runnable
 {
     public void run()
