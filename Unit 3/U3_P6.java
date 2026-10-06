@@ -1,3 +1,4 @@
+//Write a Java program to use Throw Keyword.//
 class InvalidStudentMarksException extends Exception
 {
     public InvalidStudentMarksException(String message)
