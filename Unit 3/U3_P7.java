@@ -1,3 +1,4 @@
+//Write a Java program to implement Custom Exception.//
 class InsBalException extends Exception
 {
     public InsBalException(String message)
