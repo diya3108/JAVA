@@ -1,4 +1,5 @@
- final class DiyaSecureData
+// Write a Java program to demonstrate the use of final class.//
+final class DiyaSecureData
  {
     void ShowData()
     {
