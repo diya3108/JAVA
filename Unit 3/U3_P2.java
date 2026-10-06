@@ -1,4 +1,4 @@
-// Write a Java program to implement Arithmetic Exception.//
+// Write a Java program to use Multiple Catch Block.//
 public class U3_P2
 {
     public static void main(String[] args) 
