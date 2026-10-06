@@ -1,4 +1,5 @@
- class Diya extends Thread
+//Write a Java program to create a thread using Thread Class.//
+class Diya extends Thread
 {
     public void run()
     {
