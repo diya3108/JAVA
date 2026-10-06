@@ -1,5 +1,4 @@
-
-
+//Write a Java program to use Throw Keyword.//
 public class U3_P4
 {
     static void checkVotingEligibility(int age,String studentName)
