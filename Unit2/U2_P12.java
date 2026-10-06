@@ -1,3 +1,4 @@
+//Write a java program to perform hybrid inheritance.
 interface PetAnimal
 {
    void weep();
