@@ -1,3 +1,4 @@
+//Write a Java program to use Throws Keyword.//
 import java.io.*;
 
 public class U3_P5
